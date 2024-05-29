@@ -8,7 +8,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
    
 ### Social media: 📡    
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
+[![LinkedIn Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
 
 ## Languages and Tools 
 <div>
