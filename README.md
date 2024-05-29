@@ -49,4 +49,4 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 
 ### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://t.me/sam_gyps](https://www.linkedin.com/in/nicholas-george-2613312a5/))
