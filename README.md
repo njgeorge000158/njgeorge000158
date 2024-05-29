@@ -24,26 +24,19 @@
 
 | D3.js | Matplotlib | Plotly |
 |----------|----------|----------| 
-|<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/>
-|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>
-|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>
 
 ### My tools for ETL:
 
 | Hadoop | MongoDB | Spark | 
 |----------|----------|----------| 
-|<img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/>
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>
-|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|
 
 ### My tools for AI:
 
 | Keras | PyTorch | Scikit-Learn | TensorFlow | 
 |----------|----------|----------|----------| 
-|<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/>
-|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/>
-|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="PyTorch" width="55" height="55"/>
-|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="Scikit-Learn" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="PyTorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="Scikit-Learn" width="55" height="55"/>
 
 ---
 
