@@ -4,6 +4,10 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+### My Programming Languages:
+
+
+
 ### My tools for Data Manipulation:
 
 | Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
